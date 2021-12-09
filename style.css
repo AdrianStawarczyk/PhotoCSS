@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: var(--font);
+}
+.bg{
+  display: flex;
+  background: url("photo/teaa.jpg") no-repeat center;
+  background-size: cover;
+  min-height:100vh;
+  width: auto;
+}
